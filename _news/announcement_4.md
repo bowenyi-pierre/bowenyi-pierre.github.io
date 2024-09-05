@@ -17,7 +17,7 @@ Roads go ever ever on.
     </div>
 </div>
 <div class="caption">
-    April 23, meeting at Mujo Cafe. We talked about movies and assigned everyone an English name for fun. My name was Ben. Rada was Rachel, and Siyang was either Sarah or Susan. DJ was Daniel John, the most hilarious name among all.   
+    April 23, meeting at Mujo Cafe. We talked about movies and assigned everyone an English name for fun. My name was Ben. Rada was Rachel. DJ was Daniel John, the most hilarious name among all.   
 </div>  
  
 
