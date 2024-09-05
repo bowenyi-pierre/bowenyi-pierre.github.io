@@ -16,9 +16,9 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-It's me, Bowen! I am a rising senior in Computer Science at the University of Michigan. My research focuses on **socially responsible NLP by causal inference**. Specifically, I am active in developing efficient CausalNLP to (1) promote the well-being of healthcare workers, and (2) identify event causality that affect vulnerable population. Beyond that, my long-term goal is to **understand the mechanism of LLMs' creativity**, and promote interpretable and truthful **NLP for social good**.      
+It's me, Bowen! I am a rising senior in Computer Science at the University of Michigan. My research focuses on **socially responsible NLP**. Specifically, I am active in (1) developing NLP by Causal Inference to improve the mental health of healthcare workers, and (2) building **evolvable and cuturally-aware** LLM counselors to support **accessible** mental health counseling. Beyond that, my long-term goal is to **understand the mechanism of LLMs' creativity**, and promote interpretable and truthful **NLP for social good**.      
  
-I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), being supervised by [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [David Jurgens](https://jurgens.people.si.umich.edu/), [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en), and [Maggie Makar](https://mymakar.github.io/).
+I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), being supervised by [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [David Jurgens](https://jurgens.people.si.umich.edu/), [Maggie Makar](https://mymakar.github.io/), and [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en).
 
  
 Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am one of the rare Hunaneses who can't sustain hot spice.     
