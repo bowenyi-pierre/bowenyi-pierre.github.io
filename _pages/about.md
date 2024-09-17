@@ -16,14 +16,14 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-It's me, Bowen! I am a rising senior in Computer Science at the University of Michigan. My research focuses on **socially responsible NLP**. Specifically, I am active in (1) developing NLP by Causal Inference to improve the mental health of healthcare workers, and (2) building **evolvable and cuturally-aware** LLM counselors to support **accessible** mental health counseling. Beyond that, my long-term goal is to **understand the mechanism of LLMs' creativity**, and promote interpretable and truthful **NLP for social good**.      
+I am a senior in Computer Science at the University of Michigan. My research focuses on **Natural Language Processing**. Specifically, I am active in developing (1) LLM agents that faithfully simulate human behavior, (2) cuturally-aware agents in **mental health** counseling, (3) efficient evaluation methods in tasks that traditionally require expert annotators. My long-term goal is to promote interpretable and steerable **NLP for social good**.      
  
 I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), being supervised by [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [David Jurgens](https://jurgens.people.si.umich.edu/), [Maggie Makar](https://mymakar.github.io/), and [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en).
 
  
 Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am one of the rare Hunaneses who can't sustain hot spice.     
 
-I am applying to PhD programs end of this year. Please reach out to me with any questions via email!    
+I am applying to PhD programs this round. Please reach out to me with any questions via email!    
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
