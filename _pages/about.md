@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a senior in Computer Science at the University of Michigan. My research focuses on **Natural Language Processing**. Specifically, I am active in developing (1) LLM agents that faithfully simulate complex human behavior (e.g. doctor-patient interaction), (2) cuturally-aware agents in **mental health** counseling, (3) efficient evaluation methods in tasks that traditionally require expert annotators. My long-term goal is to promote interpretable and steerable **NLP for social good**.      
  
-I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), being supervised by [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [David Jurgens](https://jurgens.people.si.umich.edu/), [Maggie Makar](https://mymakar.github.io/), and [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en).
+I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), working with [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en), [Maggie Makar](https://mymakar.github.io/), and [David Jurgens](https://jurgens.people.si.umich.edu/), .
 
  
 Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am one of the rare Hunaneses who can't sustain hot spice.     
