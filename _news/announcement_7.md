@@ -11,7 +11,7 @@ Due to some technical issues, we started the event 10 minutes late. There were a
 
 Overall, the first reading group was a good start. I presented with confidence and had positive interaction with audience. Sadly, we didn't order food today for in-person attendees, but I tried my best to make their visits worth more than food :D 
 
-Look forward to future events and seeing more people participating.       
+Look forward to future events and seeing more people participating!       
 
            
    
