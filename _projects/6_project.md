@@ -1,8 +1,8 @@
-<!-- ---
+---
 layout: page
-title: project 6
+title: Computer Vision Course Projects
 description: a project with no image
-img:
+img: 
 importance: 4
 category: fun
 ---
@@ -77,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %} -->
+{% endraw %}

@@ -16,12 +16,12 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a senior in Computer Science at the University of Michigan. My research focuses on **Natural Language Processing**. Specifically, I am active in developing (1) LLM agents that faithfully simulate complex human behavior (e.g. doctor-patient interaction), (2) culture and personality-aware agents in **mental health** counseling, (3) efficient evaluation methods in tasks that traditionally require expert annotators, and (4) increasing the **data efficiency** in mental health domain. My long-term goal is to promote interpretable and steerable **NLP for social good**.      
+I am a senior in Computer Science at the University of Michigan. My research interests lie in **Human-Centered NLP** and **Human-AI Alignment**, with a focus on modeling how personality and cultural differences impact individual behavior across **verbal**, **vocal**, and **visual** modes. I aim to develop AI agents that interpret social and behavioral cues to offer personalized responses, with applications in mental health and education.      
  
 I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), working with [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en), [Maggie Makar](https://mymakar.github.io/), and [David Jurgens](https://jurgens.people.si.umich.edu/), .
 
  
-Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am one of the rare Hunaneses who can't sustain hot spice.     
+Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am a rare Hunaneses who can't sustain hot spice.     
 
 I am applying to PhD programs this round. Please reach out to me with any questions via email!    
 
