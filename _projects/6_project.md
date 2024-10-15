@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computer Vision Course Projects
-description: a project with no image
+description: 
 img: 
 importance: 4
 category: fun
