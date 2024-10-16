@@ -16,7 +16,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a senior in Computer Science at the University of Michigan. My research interests lie in **Human-Centered NLP** and **Human-AI Alignment**, with a focus on modeling how personality and cultural differences impact individual behavior across **verbal**, **vocal**, and **visual** modes. I aim to develop AI agents that interpret social and behavioral cues to offer personalized responses, with applications in mental health and education.      
+I am a senior in Computer Science at the University of Michigan. My research interests lie in **Human-Centered NLP** and **Human-AI Alignment**, with a focus on modeling how personality and cultural differences impact individual behavior across **text**, **vocal**, and **visual** modes. I aim to develop AI agents that interpret social and behavioral cues to offer personalized responses, with applications in mental health and education.      
  
 I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), working with [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en), [Maggie Makar](https://mymakar.github.io/), and [David Jurgens](https://jurgens.people.si.umich.edu/), .
 
