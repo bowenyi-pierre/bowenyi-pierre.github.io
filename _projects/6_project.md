@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Computer Vision Course Projects
 description: 
@@ -77,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
