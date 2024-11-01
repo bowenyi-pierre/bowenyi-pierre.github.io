@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Happy Halloween ~
+title: Happy Halloween!
 date: 2024-10-31 21:30:00-0400
 description:  
 tag: Others
