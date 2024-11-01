@@ -23,7 +23,7 @@ We had a lot fun together and returned home late. That reminded me of my first a
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_9848.JPG" class="img-fluid rounded z-depth-1" zoomable=true  width="400px" height="400px"%}
+        {% include figure.html path="assets/img/IMG_9848.jpg" class="img-fluid rounded z-depth-1" zoomable=true  width="400px" height="400px"%}
     </div>
 </div>
 <div class="caption">
@@ -32,7 +32,7 @@ We had a lot fun together and returned home late. That reminded me of my first a
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/IMG_9851.JPG" class="img-fluid rounded z-depth-1" zoomable=true  width="400px" height="400px"%}
+        {% include figure.html path="assets/img/IMG_9851.jpg" class="img-fluid rounded z-depth-1" zoomable=true  width="400px" height="400px"%}
     </div>
 </div>
 <div class="caption">
