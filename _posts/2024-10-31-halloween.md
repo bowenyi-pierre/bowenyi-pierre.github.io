@@ -10,7 +10,7 @@ related_posts: false
 ---
 I had the pleasure of celebrating Halloween with CSE faculty and friends (or both) this year. It was the first time I carved a pumpkin. Honestly, it looked like my face when I saw my midterm score (not that bad but somewhat close?). We later had a comptetion for the prettiest carved pumpkin and my "artwork" didn't win. Well, beauty is subjective just like the paper-reviewing process. In my heart, my pumpkin already won the nomination a million times!
 
-We had a lot fun together and returned home late. That reminded me of my first and second Hallowean experiences in San Diego. Kind residents usually put candies in front of their home at Sorrento Valley and I would enjoy (later regret) a high blood sugar level with my friend, Kyle. I probably won't have a trick or treat tonight given Ann Arbor's terrible weather, or maybe I've grown up? 
+We had a lot fun together and returned home late. That reminded me of my first and second Hallowean experiences in San Diego. Kind residents usually put candies in front of their home at Sorrento Valley and I would enjoy (later regret) a high blood sugar level with old pal Kyle. I probably won't have a trick or treat tonight given Ann Arbor's terrible weather, or maybe I've grown up? 
    
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
