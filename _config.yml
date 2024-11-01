@@ -52,7 +52,7 @@ footer_fixed: true
 
 # Dimensions
 max_width: 800px
-
+# _posts
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
@@ -175,9 +175,9 @@ collections:
     output: false
     permalink: /projects/:path/
     
-  posts:
-    output: true
-    permalink: /posts/:path/
+  # posts:
+  #   output: true
+  #   permalink: /posts/:path/
 
 announcements:
   enabled: true
