@@ -21,7 +21,7 @@ I am a senior in Computer Science at the University of Michigan. My research int
 I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), working with [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en), [Maggie Makar](https://mymakar.github.io/), and [David Jurgens](https://jurgens.people.si.umich.edu/), .
 
  
-Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am a rare Hunaneses who can't sustain hot spice.     
+Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am a rare Hunanese who can't sustain hot spice.     
 
 I am applying to PhD programs this round. Please reach out to me with any questions via email!    
 
