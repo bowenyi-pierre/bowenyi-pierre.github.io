@@ -37,7 +37,7 @@ Since childhood, I have been eager to explore the culture and landscapes of othe
   5. Prince Edward Island, Canada
   6. Dunedin, New Zealand 
   7. Canberra, Australia
-  8. Europe: Serbia (Novi Sad), Italy (Naples, Trieste, Sardinia), Romania, Greece, Finland, Norway, Denmark
+  8. Europe: Serbia (Novi Sad), Italy (Naples, Trieste, Sardinia), Romania (Cluj Napoca), Greece, Finland, Norway, Denmark
   9. China: Hong Kong, Suzhou (JS), Yueyang (HN), Fenghuang (HN)
   10. India: Bihar, Bangaluru
   
