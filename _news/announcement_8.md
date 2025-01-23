@@ -1,6 +1,6 @@
 ---
 layout: post
-title: See you @ EMNLP! 
+title: See you @ EMNLP 2024! 
 date: 2024-Nov-11 8:10:00-EST
 inline: false
 related_posts: false

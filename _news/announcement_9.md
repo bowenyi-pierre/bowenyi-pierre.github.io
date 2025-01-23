@@ -1,6 +1,6 @@
 ---
 layout: post
-title: See you @ EMNLP! 
+title: See you @ NAACL 2025! 
 date: 2025-Jan-22 18:10:00-EST
 inline: false
 related_posts: false
