@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a senior in Computer Science at the University of Michigan. My research interests lie in **Human-Centered NLP**, **Behavioral Data Science**, and **NLP for Computational Social Science**, with a focus on modeling how personality and cultural differences impact individual behavior across **text**, **speech**, and **visual** modes. I aim to develop AI agents that interpret social and behavioral cues to offer personalized responses, with applications in mental health and education.       
  
-I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), working with [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en), [Maggie Makar](https://mymakar.github.io/), and [David Jurgens](https://jurgens.people.si.umich.edu/), .
+I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), working with [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea), [Veronica Perez-Rosas](https://scholar.google.com/citations?user=yatiIigAAAAJ&hl=en), [Maggie Makar](https://mymakar.github.io/), and [David Jurgens](https://jurgens.people.si.umich.edu/).
 
  
 Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am a rare Hunanese who can't sustain hot spice.     
