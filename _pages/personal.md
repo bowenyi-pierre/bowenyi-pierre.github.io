@@ -7,12 +7,12 @@ nav_order: 7
 ---
 Outside of research, I enjoy learning new languages. Currently, I am teaching myself several Latin languages (Romanian, Italian, Spanish) and a Slavic language (Serbian). Previously, I spent a year studying German in secondary school and three months learning Cantonese in college. While I can’t hold a conversation in German at the moment, I hope to regain proficiency soon.  
 
-During free time, I am also a book lover. My eclectic interests in literature span across geographic origins and genres. In addition to Chinese and English works, I appreciate creations from Russian, Spanish, French, Portuguese, German, Polish, and Japanese authors, particularly from the 19th and 20th century (the Neapolitan Novels as an exception). According to a Chinese proverb, "There are a thousand Hamlets in a thousand people’s eyes": I find tremendous inspiration in works that may not always be appreciated by literary critics. Influenced by life events that occurred while reading, my top five picks (surprisingly) are:
+During free time, I am also a book lover. My eclectic interests in literature span across geographic origins and genres. In addition to Chinese and English works, I appreciate creations from Russian, Spanish, French, Portuguese, German, Polish, and Japanese authors, particularly from the 19th and 20th century. According to a Chinese proverb, "There are a thousand Hamlets in a thousand people’s eyes": I find tremendous inspiration in works that may not always be appreciated by literary critics. Influenced by life events that occurred while reading, my top five picks are:
 
   1. War and Peace by Leo Tolstoy (1867)
   2. Resurrection by Leo Tolstoy (1899)
-  3. Crime and Punishment by Fyodor Dostoevsky (1866)
-  4. Anne of Green Gables by Lucy Maud Montgomery (1908), The Neapolitan Novels by Elena Ferrante (2011-2014)
+  3. Crime and Punishment by Fyodor Dostoevsky (1866), The Neapolitan Novels by Elena Ferrante (2011-2014)
+  4. Anne of Green Gables by Lucy Maud Montgomery (1908)
   5. Steve Jobs by Walter Isaacson (2011)
 
 Although not an expert, I am a movie buff who find joy in all kinds of films created since the 1910s. I maintain [online records](https://letterboxd.com/bowen20190101/films/) for a fraction of movies I've watched, and might add reviews to this site in the future. Good movies are beacons for lost hearts in the darkest times, and my top 5 picks are:
