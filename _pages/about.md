@@ -23,7 +23,7 @@ I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) a
  
 Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am a rare Hunanese who can't sustain hot spice.     
 
-**Update: I will join USC as a CS PhD in fall 2025. Fight on!**    
+**Update: I will join the University of Southern California as a CS PhD in fall 2025. Fight on!**    
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
