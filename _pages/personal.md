@@ -5,7 +5,7 @@ description: It's personal, but please don't take it personally :D
 nav: true
 nav_order: 7
 ---
-Outside of research, I enjoy learning new languages. Currently, I am teaching myself several Latin languages (Romanian, Italian, Spanish) and a Slavic language (Serbian). Previously, I spent a year studying German in secondary school and three months learning Cantonese in college. While I can’t hold a conversation in German at the moment, I hope to regain proficiency soon.  
+Outside of research, I enjoy learning new languages. Currently, I am teaching myself Italian and Serbian. Previously, I spent a year studying German in secondary school and three months learning Cantonese in college. While I can’t hold a conversation in German at the moment, I hope to regain proficiency soon.  
 
 During free time, I am also a book lover. My eclectic interests in literature span across geographic origins and genres. In addition to Chinese and English works, I appreciate creations from Russian, Spanish, French, Portuguese, German, Polish, and Japanese authors, particularly from the 19th and 20th century. According to a Chinese proverb, "There are a thousand Hamlets in a thousand people’s eyes": I find tremendous inspiration in works that may not always be appreciated by literary critics. Influenced by life events that occurred while reading, my top five picks are:
 
