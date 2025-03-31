@@ -16,9 +16,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Update: I will join the University of Southern California as a CS PhD in fall 2025. Fight on!  
 
-Ciao amici! Mi chiamo Bowen. I am a senior in Computer Science at the University of Michigan. My research interests lie in **Human-Centered NLP**, **Behavioral Data Science**, and **NLP for Computational Social Science**, with a focus on modeling how personality and cultural differences impact individual behavior across **text**, **speech**, and **visual** modes. I aim to develop AI agents that interpret social and behavioral cues to offer personalized responses, with applications in mental health and education.       
+Ciao amici! Mi chiamo Bowen. I’m an incoming PhD student in Computer Science at the University of Southern California. Currently, I’m completing my undergraduate degree in Computer Science at the University of Michigan. My research interests lie in **Human-Centered NLP**, **Behavioral Data Science**, and **NLP for Computational Social Science**, with a focus on modeling how personality and cultural differences impact individual behavior across **text**, **speech**, and **visual** modes. I aim to develop AI agents that interpret social and behavioral cues to offer personalized responses, with applications in healthcare.       
  
 I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), working with [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea) and [David Jurgens](https://jurgens.people.si.umich.edu/).
 
