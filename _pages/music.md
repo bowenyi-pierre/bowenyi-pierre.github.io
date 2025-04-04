@@ -28,11 +28,12 @@ In these 21 years—and the many more to come—music has been a tool, a medicin
 
 As I said in the Mandarin collection:
 
-> I picture a morning in the future—maybe I’m driving a car I don’t yet own, windows down, sunlight streaming in, and these songs playing. Just like Andy in *The Shawshank Redemption*, driving along the Pacific coast. Music weaves into our lives in strange and beautiful ways. Maybe it’s true—music doesn’t just accompany life; it *makes* it.
+*“I picture a morning in the future—maybe I’m driving a car I don’t yet own, windows down, sunlight streaming in, and these songs playing. Just like Andy in* The Shawshank Redemption, *driving along the Pacific coast. Music weaves into our lives in strange and beautiful ways. Maybe it’s true—music doesn’t just accompany life; it* makes *it.”*
+
 
 
 Yours,  
-**Bowen**
+Bowen
 
 
      
