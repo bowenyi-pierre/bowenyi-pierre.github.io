@@ -10,7 +10,7 @@ From here, I present four ongoing music collections on YouTube Music: [Mandarin]
 
 ---
 
-## What is music?
+### What is music?
 
 This question came to me one quiet Thursday night. After finishing my PhD applications, I finally had time to look back on the music that has accompanied me over the years. I realized that music isn't just sound—it's memory. Music from a certain time carries the spirit of that era. And for me, music also captures the state of my mind, my life, at that moment.
 
