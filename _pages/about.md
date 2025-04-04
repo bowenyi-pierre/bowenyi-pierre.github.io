@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Ciao amici! Mi chiamo Bowen. I’m an incoming CS PhD student at the <ins>University of Southern California</ins>. Currently, I’m completing my undergraduate degree in CS at the <ins>University of Michigan</ins>. My research interests lie in Human-Centered NLP, Behavioral Data Science, and NLP for Computational Social Science, with a focus on modeling how personality and cultural differences impact individual behavior across text, speech, and visual modes. I aim to develop AI agents that interpret social and behavioral cues to offer personalized responses, with applications in healthcare.     
  
-I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), working with [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea) and [David Jurgens](https://jurgens.people.si.umich.edu/).
+I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) and [Blablablab](https://blablablab.si.umich.edu/), working with the one and the only [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea) and [David Jurgens](https://jurgens.people.si.umich.edu/).
 
 Before my journey at Michigan, I grew up in [Yueyang, Hunan](https://en.wikipedia.org/wiki/Yueyang). I am a rare Hunanese who can't sustain hot spice.     
 
