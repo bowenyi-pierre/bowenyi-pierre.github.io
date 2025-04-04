@@ -26,7 +26,7 @@ In college, music helped me find calm. As schoolwork and research duties grew, I
 
 In these 21 years—and the many more to come—music has been a tool, a medicine, a friend, and a form of family. You can learn a lot about someone from their song collection—it’s not a cliché. I’m grateful to every person and experience that music has framed and followed. From childish tunes in my childhood, to chasing hits in my teenage confusion, to now—where each song I love carries a story—I’ve grown into an idealistic, romantic, and imperfect adult. And music has witnessed every step. I feel more secure facing whatever challenges lie ahead, because I know music will be there watching over me.
 
-As I said in the Mandarin songs collection:
+As I said in the comment section of the Mandarin songs collection:
 
 > Music weaves into our lives in strange and beautiful ways. Maybe it’s true—music doesn’t just accompany life; it makes it.
 
