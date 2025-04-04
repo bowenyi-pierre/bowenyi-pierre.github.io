@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-description: Music collections for non-instrument players
+description:
 nav: true
 nav_order: 8
 ---
