@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile_la.jpg
+  image: profile_la.JPG
   image_circular: false # crops the image to make it circular
   more_info: 
     Dept. of Computer Science, University of Michigan
