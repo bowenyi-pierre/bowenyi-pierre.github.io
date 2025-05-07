@@ -9,8 +9,8 @@ profile:
   image: profile_la.JPG
   image_circular: false # crops the image to make it circular
   more_info: 
-    Dept. of Computer Science, University of Michigan
-    bowenyi@umich.edu
+    Dept. of Computer Science, University of Southern California
+    bowenyi@usc.edu
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
