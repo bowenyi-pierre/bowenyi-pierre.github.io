@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Ciao amici! Mi chiamo Bowen. I’m an incoming CS PhD student at the <ins>University of Southern California</ins>. I completed my undergraduate degree in CS at the <ins>University of Michigan</ins>. My research interests lie in Human-Centered NLP, Behavioral Data Science, and NLP for Computational Social Science, with a focus on modeling how personality and cultural differences impact individual behavior across text, speech, and visual modes. I aim to develop AI agents that interpret social and behavioral cues to offer personalized responses, with applications in healthcare.     
+朋友们好，我是易博文！I’m an incoming CS PhD student at the <ins>University of Southern California, advised by [Shrikanth Narayanan](https://en.wikipedia.org/wiki/Shrikanth_Narayanan) </ins>. I completed my undergraduate degree in CS at the <ins>University of Michigan</ins>. My research interests lie in Human-Centered NLP, Behavioral Data Science, and NLP for Computational Social Science, with a focus on modeling how personality and cultural differences impact individual behavior across text, speech, and visual modes. I aim to develop AI agents that interpret social and behavioral cues to offer personalized responses, with applications in healthcare.     
  
 I am proud to be part of the [LIT research group](https://lit.eecs.umich.edu/) with the one and the only [Rada Mihalcea](https://en.wikipedia.org/wiki/Rada_Mihalcea). I also had the fortune to work with [David Jurgens](https://jurgens.people.si.umich.edu/) at [Blablablab](https://blablablab.si.umich.edu/).
 
