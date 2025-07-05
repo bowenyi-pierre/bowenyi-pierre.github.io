@@ -74,7 +74,7 @@ mastodon_username: # your mastodon instance+username in the format instance.tld/
 linkedin_username: bowen-yi-54203b266
 telegram_username: # your Telegram user name
 scholar_userid: mX4rfREAAAAJ
-semanticscholar_id: 2057992573
+# semanticscholar_id: 2057992573
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # orcid_id: 0000-0003-0167-0615
 medium_username: 
@@ -98,7 +98,7 @@ pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
 instagram_id: # your instagram id
 facebook_id: # your facebook id
-youtube_id: bowenyi-kj3vr
+# youtube_id: bowenyi-kj3vr
 discord_id: # your discord id (18-digit unique numerical identifier)
 zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
